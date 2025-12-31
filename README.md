@@ -1,8 +1,8 @@
 # RealEstateWebsite
 
-[![CI](https://img.shields.io/badge/CI-GitHub%20Actions-blue?logo=github)](https://github.com/<Zer0-Bug>/RealEstateWebsite/actions)
-[![CodeQL](https://img.shields.io/badge/Code%20Scanning-CodeQL-orange)](https://github.com/<Zer0-Bug>/RealEstateWebsite/security/code-scanning)
-[![Dependabot Status](https://img.shields.io/badge/Dependency%20Updates-Dependabot-green)](https://github.com/<Zer0-Bug>/RealEstateWebsite/pulse)
+[![CI](https://img.shields.io/badge/CI-GitHub%20Actions-blue?logo=github)](https://github.com/Zer0-Bug/RealEstateWebsite/actions)
+[![CodeQL](https://img.shields.io/badge/Code%20Scanning-CodeQL-orange)](https://github.com/Zer0-Bug/RealEstateWebsite/security/code-scanning)
+[![Dependabot Status](https://img.shields.io/badge/Dependency%20Updates-Dependabot-green)](https://github.com/Zer0-Bug/RealEstateWebsite/pulse)
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 A professional, production-oriented ASP.NET MVC real estate listing and management application. The project demonstrates a classical MVC architecture using ASP.NET MVC 5, Entity Framework 6, and SQL Server.
@@ -53,7 +53,7 @@ Clone and run locally:
 
 1. Clone the repository:
 
-   git clone https://github.com/<Zer0-Bug>/RealEstateWebsite.git
+   git clone https://github.com/Zer0-Bug/RealEstateWebsite.git
 
 2. Open `ASP.NET Project/RealEstateWebsite.sln` in Visual Studio.
 3. Restore NuGet packages (Visual Studio will prompt or run `nuget restore`).
