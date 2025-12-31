@@ -1,3 +1,2 @@
-Visual studio code ASP.NET --> 2019
-
-SQL Server Management Studio --> 2019
+Visual Studio Code ASP.NET -> 2019
+SQL Server Management Studio -> 2019
