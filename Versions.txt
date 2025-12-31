@@ -1,2 +1,23 @@
-Visual Studio Code ASP.NET -> 2019
-SQL Server Management Studio -> 2019
+Recommended development environment and versions
+
+- IDE: Visual Studio 2019 (16.11+) or Visual Studio 2022 (17.x) — full .sln support for ASP.NET MVC 5 projects
+- .NET Framework: **4.7.2** (project target; developer pack required)
+- Entity Framework: **6.x**
+- SQL Server: **SQL Server 2017+** or **LocalDB (2017+)**
+- Browser: Latest Chromium-based browsers (Edge/Chrome) for testing
+- Git: **2.30+** (for improved CLI features and LFS support if needed)
+- Optional: Node.js **14.x** or **16.x** (only if you add modern frontend tooling)
+
+Recommended GitHub features to enable for this repo
+
+- GitHub Actions (CI): automatic build, tests, and code scanning
+- Dependabot: automated dependency updates
+- CodeQL: code scanning for security vulnerabilities
+- Issue & PR Templates, Security Policy, and Pull Request checks
+- Releases: semantic versioning and changelog for published builds
+- (Optional) Codespaces / GitHub Copilot for faster development
+
+Notes
+
+- Keep production secrets out of the repository—use environment variables or GitHub Secrets for Actions.
+- Align local tool versions with CI workflows to avoid build inconsistencies.
