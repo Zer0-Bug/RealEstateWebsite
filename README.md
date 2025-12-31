@@ -26,7 +26,7 @@ Here are some of the main features of this project:
 Follow the steps below to install the project on your local computer:
 
 1. Clone the repository: 
-git clone https://github.com/Zer0-Bug/Project_RealEstateWebsite.git
+git clone https://github.com/Zer0-Bug/RealEstateWebsite.git
 
 
 2. Open the project with Visual Studio or a similar IDE.
