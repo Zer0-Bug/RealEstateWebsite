@@ -105,3 +105,9 @@ This project is released under the **MIT License** — see the `LICENSE` file fo
 ---
 
 > NOTE: This project is a demo/sample implementation intended for learning and evaluation. Do not use the demo data or bundled images in production without replacing them with appropriate assets and sanitized test data.
+
+---
+
+<p align="center">
+  ∞
+</p>
