@@ -191,6 +191,8 @@ Contributions are welcome to enhance the RealEstateWebsite ecosystem. To contrib
 > - **IDE:** Visual Studio 2019/2022 with ASP.NET and web development workload.
 > - **Database:** LocalDB or a full SQL Server instance (2017 or newer).
 
+> [!NOTE]
+> - This project is a demo/sample implementation intended for learning and evaluation. Do not use the demo data or bundled images in production without replacing them with appropriate assets and sanitized test data.
 ---
 
 <br>
