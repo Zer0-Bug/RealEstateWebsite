@@ -210,10 +210,6 @@ Contributions are welcome to enhance the RealEstateWebsite ecosystem. To contrib
 
 ---
 
-<p align="center" style="margin-top:10px; letter-spacing:4px;">
-  ∞
-</p>
-
 <br>
 <p align="center" style="margin-top:10px; letter-spacing:4px;">
   ∞
