@@ -184,7 +184,7 @@ Contributions are welcome to enhance the RealEstateWebsite ecosystem. To contrib
 4. Push your branch to your fork:  
    `git push origin feature/your-feature-name`
 5. Open a Pull Request describing the changes made.
-
+<br>
 All contributions are reviewed before being merged. Please ensure that your changes follow the existing code style and include relevant documentation or tests where applicable.
 
 ---
