@@ -196,6 +196,25 @@ Contributions are welcome to enhance the RealEstateWebsite ecosystem. To contrib
 ---
 
 <br>
+<p align="center">
+  <a href="mailto:777eerol.exe@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" width="40" alt="Email">
+  </a>
+  <span> × </span>
+  <a href="https://www.linkedin.com/in/eerolexe/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
+         width="40"
+         alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+<p align="center" style="margin-top:10px; letter-spacing:4px;">
+  ∞
+</p>
+
+<br>
 <p align="center" style="margin-top:10px; letter-spacing:4px;">
   ∞
 </p>
