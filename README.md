@@ -27,19 +27,19 @@
   <a href="#technical-architecture">
     <img src="https://img.shields.io/badge/Architecture-222222?style=flat" />
   </a>
-  <span> · </span>
+  <span> ° </span>
   <a href="#project-structure">
     <img src="https://img.shields.io/badge/Structure-222222?style=flat" />
   </a>
-  <span> · </span>
+  <span> ° </span>
   <a href="#key-features--modules">
     <img src="https://img.shields.io/badge/Features-222222?style=flat" />
   </a>
-  <span> · </span>
+  <span> ° </span>
   <a href="#technical-specifications">
     <img src="https://img.shields.io/badge/Specs-222222?style=flat" />
   </a>
-  <span> · </span>
+  <span> ° </span>
   <a href="#deployment--installation">
     <img src="https://img.shields.io/badge/Deploy-222222?style=flat" />
   </a>
